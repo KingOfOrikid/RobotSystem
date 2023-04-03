@@ -1,0 +1,20 @@
+﻿  SystemWork.cpp
+c:\users\yuki\desktop\robotsystem\robotsystem\systemwork.cpp(62): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\yuki\desktop\robotsystem\robotsystem\systemwork.cpp(163): warning C4101: “gmt”: 未引用的局部变量
+c:\users\yuki\desktop\robotsystem\robotsystem\systemwork.cpp(207): warning C4101: “gmt”: 未引用的局部变量
+  正在生成代码...
+  正在编译...
+  BookKeeping.cpp
+c:\users\yuki\desktop\robotsystem\robotsystem\bookkeeping.cpp(132): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\yuki\desktop\robotsystem\robotsystem\bookkeeping.cpp(185): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\yuki\desktop\robotsystem\robotsystem\bookkeeping.cpp(234): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\yuki\desktop\robotsystem\robotsystem\bookkeeping.cpp(238): warning C4018: “<”: 有符号/无符号不匹配
+  正在生成代码...
+  正在编译...
+  System.cpp
+  正在生成代码...
+  正在跳过...(未检测到相关更改)
+  Users.cpp
+  Operate.cpp
+  RobotSystem.vcxproj -> C:\Users\yuki\Desktop\RobotSystem\Debug\RobotSystem.exe
+  RobotSystem.vcxproj -> C:\Users\yuki\Desktop\RobotSystem\Debug\RobotSystem.pdb (Full PDB)
